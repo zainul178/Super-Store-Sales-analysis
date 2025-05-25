@@ -1,7 +1,7 @@
 # Super Store Sales Dashboard (Power BI)
 
-![](pic1.png) 
-![](pic2.png)
+![](page1.png) 
+![](page2.png)
 
 ## Description  
 A Power BI dashboard analyzing sales, profit, delivery trends, and **15-day sales forecasts** for a super store. Includes visualizations for category performance, regional insights, and predictive modeling.
